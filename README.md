@@ -4,6 +4,7 @@
 freeCodeCamp Practice Project.
 
 
+JavaScript Algorithms and Data Structures.
 
 
 Coding a game is a great way to grasp fundamental programming principles, while also creating an interactive gaming experience.
